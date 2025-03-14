@@ -1,5 +1,5 @@
-//Jogo Super Trunfo. Jogo realizado no nível Novato da disciplina Introdução à lógica de programação.
-// Tem por objetivo a inserção de dados para compor as caracteristicas de cada carta. 
+//Jogo Super Trunfo. 
+//O objetivo desta parte do projeto foi realizar a base do jogo. Criando um sistema para armazenar informações da cidade de carta do jogo. 
 
 
 
